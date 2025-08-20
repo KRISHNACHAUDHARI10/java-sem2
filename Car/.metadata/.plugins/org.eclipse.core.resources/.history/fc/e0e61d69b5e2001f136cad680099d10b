@@ -1,0 +1,7 @@
+package animal;
+
+public class Mamel {
+  public static void main(String[] args) {
+    System.out.print('hy');	  
+  }
+}
