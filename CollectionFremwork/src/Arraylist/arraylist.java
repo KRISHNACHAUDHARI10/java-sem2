@@ -6,7 +6,7 @@ class arraylist{
 		 ArrayList<Integer>  list = new ArrayList<>();
 		 list.add(50);
 		 list.add(60);
-		 list.add(70);
+		 list.add(70)
 		 list.add(80);
 		 
 	
