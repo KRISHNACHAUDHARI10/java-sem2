@@ -8,7 +8,7 @@ public class Employee {
     private int employeeId;
     private double salary;
 
-    // Constructor
+    // Constructo
     public Employee(String name, int employeeId, double salary) {
         this.name = name;
         this.employeeId = employeeId;
