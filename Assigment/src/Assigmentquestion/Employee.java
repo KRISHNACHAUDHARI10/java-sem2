@@ -5,7 +5,7 @@ package Assigmentquestion;
 
 public class Employee {
     private String name;
-    private int employeeId
+    private int employeeId;
     private double salary;
 
     // Constructor
