@@ -7,7 +7,7 @@ public class Manager extends Employee {
 
     // Constructor
     public Manager(String name, int employeeId, double salary, String department) {
-        super(name, employeeId, salary);
+        super(name, employeeId, salary)
         this.department = department;
     }
 
